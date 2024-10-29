@@ -29,6 +29,11 @@
         "output_dir": "results/Holy_Crap",
         "sample_text": "Holy crap! Holy crap! Ow! Holy crap! Holy crap! Holy crap! Holy crap! Holy crap!"
     },
+    "Mel Gibson": {
+        "sample": "./tests/ref_audio/mel_gibson.wav",
+        "output_dir": "results/Mel_Gibson",
+        "sample_text": "Now, whoever he is, he didn't destroy your life. Don't give him that power. You know? People come on this show every day that feel desperate, hopeless, worthless, usually because somebody else made them feel that way, okay? Do not adopt that perception of yourself, all right?"
+    },
     "Mike Rowe": {
         "sample": "./tests/ref_audio/mike_rowe_1.wav",
         "output_dir": "results/Mike_Rowe",
