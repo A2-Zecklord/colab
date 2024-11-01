@@ -10,61 +10,57 @@ remove_silence = false
 output_dir = "tests"
 
 [voices.Christopher_Walken]
-ref_audio = "./tests/ref_audio/christopher_walken.wav"
+ref_audio = "./colab/tests/ref_audio/christopher_walken.wav"
 ref_text = "Two little mice fell in a bucket of cream. The first mouse quickly gave up and drowned. The second mouse wouldn't quit. He struggled so hard that"
 
 [voices.Mike_Rowe]
-ref_audio = "./tests/ref_audio/mike_rowe_1.wav"
+ref_audio = "./colab/tests/ref_audio/mike_rowe_1.wav"
 ref_text = "of water towers all over America. Some are taller than others and some are cleaner than others."
 
 [voices.1930_Ad]
-ref_audio = "./tests/ref_audio/1930s_ad.wav"
+ref_audio = "./colab/tests/ref_audio/1930s_ad.wav"
 ref_text = "Say, what a pretty park. But there's no time for loping. We're on the way to Mrs. Smith's. Here we are, but it's the back door for us. We'll find her in the kitchen. What did I tell you? She's doing her dishes. Look here, Mrs. Smith. Hold onto that towel."
 
 [voices.1930_Radio]
-ref_audio = "./tests/ref_audio/1930s_radio.wav"
+ref_audio = "./colab/tests/ref_audio/1930s_radio.wav"
 ref_text = "Good evening, ladies and gentlemen of the radio audience. This is Graham McNamee speaking. We bring you a period of delightful entertainment sponsored by Coca-Cola, that pure drink of natural flavors served nine million times a day."
 
 [voices.Trump]
-ref_audio = "./tests/ref_audio/donald_trump_1.wav"
+ref_audio = "./colab/tests/ref_audio/donald_trump_1.wav"
 ref_text = "Just going back to Ukraine for one second. We have an ocean separating us. The European nations together have spent 100 billion or maybe more than that, less than us,"
 
 [voices.Biden]
-ref_audio = "./tests/ref_audio/biden_1.wav"
+ref_audio = "./colab/tests/ref_audio/biden_1.wav"
 ref_text = "Number one, everyone from the United Nations Security Council, straight through to the G7, to the Israelis and Netanyahu himself have endorsed the plan they put forward, endorsed the plan they put forward, which has three stages to it."
 
 [voices.Joker]
-ref_audio = "./tests/ref_audio/The_Joker_1.wav"
+ref_audio = "./colab/tests/ref_audio/The_Joker_1.wav"
 ref_text = "Every day he doesn't, people will die. Starting tonight. Do you know where I can find Harvey? I need to talk to him about something. Just tell me a little, huh? No. I'll settle for his loved ones."
 
 [voices.Reading]
-ref_audio = "./tests/ref_audio/mike_rowe_1.wav"
+ref_audio = "./colab/tests/ref_audio/mike_rowe_1.wav"
 ref_text = "of water towers all over America. Some are taller than others and some are cleaner than others."
 
 [voices.Agent_Smith]
-ref_audio = "./tests/ref_audio/agent_smith_1.wav"
+ref_audio = "./colab/tests/ref_audio/agent_smith_1.wav"
 ref_text = "Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment."
 
 [voices.Morgan_Freeman]
-ref_audio = "./tests/ref_audio/morgan_freeman_1.wav"
+ref_audio = "./colab/tests/ref_audio/morgan_freeman_1.wav"
 ref_text = "Some, called blue-green bacteria, slowly released tiny bubbles of oxygen and profoundly changed the atmosphere."
 
 [voices.Jeremy_Clarkson]
-ref_audio = "./tests/ref_audio/jeremy_clarkson.wav"
+ref_audio = "./colab/tests/ref_audio/jeremy_clarkson.wav"
 ref_text = "bit dull but for one very good reason it isn't dull to me. You see back in 1994 I"
 
 [voices.Daily_Dose_of_Internet]
-ref_audio = "./tests/ref_audio/daily_dose_1.wav"
+ref_audio = "./colab/tests/ref_audio/daily_dose_1.wav"
 ref_text = "Hello everyone, this is your Daily Dose of Internet. They didn't realize that one of the mattresses they were trying to deliver was outside of the truck."
 
 [voices.Indian_Scammer]
-ref_audio = "./tests/ref_audio/indian_scammer.wav"
+ref_audio = "./colab/tests/ref_audio/indian_scammer.wav"
 ref_text = "hello i am here the reach you i have a reach you about car extended warranty my name is jeff and i will be your representative today"
 
 [voices.Venom]
-ref_audio = "./tests/ref_audio/venom_2.wav"
+ref_audio = "./colab/tests/ref_audio/venom_2.wav"
 ref_text = "I am Venom. And you are mine. Fuel in the tank. Listen carefully, Eddie. You did not find us. We found you. Think of yourself as my ride."
-
-[voices.Young_Michael]
-ref_audio = "./tests/ref_audio/young_michael_3.wav"
-ref_text = "Hey YouTube viewers, this is Yomama I Like Pie. Today I will be showing you something I have created. So let's get ready, start it."
