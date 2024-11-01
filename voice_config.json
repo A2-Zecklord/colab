@@ -1,81 +1,81 @@
 {
     "1930s Advertisement": {
-        "sample": "./tests/ref_audio/1930s_ad.wav",
+        "sample": "./colab/tests/ref_audio/1930s_ad.wav",
         "output_dir": "results/1930s_Advertisement",
         "sample_text": "Say, what a pretty park. But there's no time for loping. We're on the way to Mrs. Smith's. Here we are, but it's the back door for us. We'll find her in the kitchen. What did I tell you? She's doing her dishes. Look here, Mrs. Smith. Hold onto that towel."
     },
     "1930s Radio": {
-        "sample": "./tests/ref_audio/1930s_radio.wav",
+        "sample": "./colab/tests/ref_audio/1930s_radio.wav",
         "output_dir": "results/1930s_Radio",
         "sample_text": "Good evening, ladies and gentlemen of the radio audience. This is Graham McNamee speaking. We bring you a period of delightful entertainment sponsored by Coca-Cola, that pure drink of natural flavors served nine million times a day."
     },
     "Agent Smith": {
-        "sample": "./tests/ref_audio/agent_smith_1.wav",
+        "sample": "./colab/tests/ref_audio/agent_smith_1.wav",
         "output_dir": "results/Agent_Smith",
         "sample_text": "Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment."
     },
     "Biden": {
-        "sample": "./tests/ref_audio/biden_1.wav",
+        "sample": "./colab/tests/ref_audio/biden_1.wav",
         "output_dir": "results/Biden",
         "sample_text": "Number one, everyone from the United Nations Security Council, straight through to the G7, to the Israelis and Netanyahu himself have endorsed the plan they put forward, endorsed the plan they put forward, which has three stages to it."
     },
     "Christopher Walken":{
-        "sample": "./tests/ref_audio/christopher_walken.wav",
+        "sample": "./colab/tests/ref_audio/christopher_walken.wav",
         "output_dir": "results/Christopher_Walken",
         "sample_text": "Two little mice fell in a bucket of cream. The first mouse quickly gave up and drowned. The second mouse wouldn't quit. He struggled so hard that"
     },
     "Holy Crap": {
-        "sample": "./tests/ref_audio/holy_crap3.wav",
+        "sample": "./colab/tests/ref_audio/holy_crap3.wav",
         "output_dir": "results/Holy_Crap",
         "sample_text": "Holy crap! Holy crap! Ow! Holy crap! Holy crap! Holy crap! Holy crap! Holy crap!"
     },
     "Mike Rowe": {
-        "sample": "./tests/ref_audio/mike_rowe_1.wav",
+        "sample": "./colab/tests/ref_audio/mike_rowe_1.wav",
         "output_dir": "results/Mike_Rowe",
         "sample_text": "of water towers all over America. Some are taller than others and some are cleaner than others."
     },
     "Morgan Freeman": {
-        "sample": "./tests/ref_audio/morgan_freeman_1.wav",
+        "sample": "./colab/tests/ref_audio/morgan_freeman_1.wav",
         "output_dir": "results/Morgan_Freeman",
         "sample_text": "Some, called blue-green bacteria, slowly released tiny bubbles of oxygen and profoundly changed the atmosphere."
     },
     "Jeremy Clarkson": {
-        "sample": "./tests/ref_audio/jeremy_clarkson.wav",
+        "sample": "./colab/tests/ref_audio/jeremy_clarkson.wav",
         "output_dir": "results/Jeremy_Clarkson",
         "sample_text": "bit dull but for one very good reason it isn't dull to me. You see back in 1994 I"
     },
     "Reading": {
-        "sample": "./tests/ref_audio/reading.wav",
+        "sample": "./colab/tests/ref_audio/reading.wav",
         "output_dir": "results/Reading",
         "sample_text": "In order to be what we are, we have to come out of what we are not. Now then here you and I are sitting in a body. Now in a few years this body will die, go back to dust."
     },
     "The Joker": {
-        "sample": "./tests/ref_audio/The_Joker_1.wav",
+        "sample": "./colab/tests/ref_audio/The_Joker_1.wav",
         "output_dir": "results/The_Joker",
         "sample_text": "Every day he doesn't, people will die. Starting tonight. Do you know where I can find Harvey? I need to talk to him about something. Just tell me a little, huh? No. I'll settle for his loved ones."
     },
     "Daily Dose of Internet": {
-        "sample": "./tests/ref_audio/daily_dose_1.wav",
+        "sample": "./colab/tests/ref_audio/daily_dose_1.wav",
         "output_dir": "results/Daily_Dose",
         "sample_text": "Hello everyone, this is your Daily Dose of Internet. They didn't realize that one of the mattresses they were trying to deliver was outside of the truck."
     },
     "Donald Trump": {
-        "sample": "./tests/ref_audio/donald_trump_1.wav",
+        "sample": "./colab/tests/ref_audio/donald_trump_1.wav",
         "output_dir": "results/Donald_Trump",
         "sample_text": "Oh, this is some crowd. This is what a group. I know so many of the people, all these people. They're tough as hell. They're from Georgia. They should be tough. I want to just say a special hello to Georgia. You have a lot of excitement going on outside. You know that, right? Right, Kelly?"
     },
     "Indian Scammer": {
-        "sample": "./tests/ref_audio/indian_scammer.wav",
+        "sample": "./colab/tests/ref_audio/indian_scammer.wav",
         "output_dir": "results/Indian Scammer",
         "sample_text": "hello i am here the reach you i have a reach you about car extended warranty my name is jeff and i will be your representative today"
     },
     "Venom": {
-        "sample": "./tests/ref_audio/venom_2.wav",
+        "sample": "./colab/tests/ref_audio/venom_2.wav",
         "output_dir": "results/Venom",
         "sample_text": "I am Venom. And you are mine. Fuel in the tank. Listen carefully, Eddie. You did not find us. We found you. Think of yourself as my ride."
     },
     "Young Michael": {
-        "sample": "./tests/ref_audio/young_michael_3.wav",
+        "sample": "./colab/tests/ref_audio/young_michael_3.wav",
         "output_dir": "results/Young Michael",
         "sample_text": "Hey YouTube viewers, this is Yomima I Like Pie. Today I will be showing you something I have created. So let's get ready, start it."
     },
