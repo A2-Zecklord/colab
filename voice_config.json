@@ -62,7 +62,7 @@
     "Donald Trump": {
         "sample": "./colab/tests/ref_audio/donald_trump_1.wav",
         "output_dir": "results/Donald_Trump",
-        "sample_text": "Oh, this is some crowd. This is what a group. I know so many of the people, all these people. They're tough as hell. They're from Georgia. They should be tough. I want to just say a special hello to Georgia. You have a lot of excitement going on outside. You know that, right? Right, Kelly?"
+        "sample_text": "Just going back to Ukraine for one second. We have an ocean separating us. The European nations together have spent 100 billion or maybe more than that, less than us,"
     },
     "Indian Scammer": {
         "sample": "./colab/tests/ref_audio/indian_scammer.wav",
