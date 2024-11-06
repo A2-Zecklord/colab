@@ -9,6 +9,26 @@ gen_file = ""
 remove_silence = false
 output_dir = "tests"
 
+[voices.Alex_Jones]
+ref_audio = "./colab/tests/ref_audio/alex_jones.wav"
+ref_text = "But it's just shrunken women with shrunken souls in a shrunken world with shrunken heads."
+
+[voices.Downs]
+ref_audio = "./colab/tests/ref_audio/downs.wav"
+ref_text = "Im Michael and I have downs, I got the good knee my knee blew out when I was walking and now I need a walker. ah yeah"
+
+[voices.Downs_Vector]
+ref_audio = "./colab/tests/ref_audio/downs_vector.wav"
+ref_text = "Vector! That's me, because I'm committing crimes with both direction and magnitude. Oh yeah!"
+
+[voices.Gru]
+ref_audio = "./colab/tests/ref_audio/gru.wav"
+ref_text = "Little bombs all over my yard and I don't appreciate it. Unless they're dead. I'm joking. Although it is true. Anyway, have a good one."
+
+[voices.Vector]
+ref_audio = "./colab/tests/ref_audio/vector.wav"
+ref_text = "Vector! That's me, because I'm committing crimes with both direction and magnitude. Oh yeah!"
+
 [voices.Christopher_Walken]
 ref_audio = "./colab/tests/ref_audio/christopher_walken.wav"
 ref_text = "Two little mice fell in a bucket of cream. The first mouse quickly gave up and drowned. The second mouse wouldn't quit. He struggled so hard that"

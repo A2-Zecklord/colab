@@ -14,6 +14,11 @@
         "output_dir": "results/Agent_Smith",
         "sample_text": "Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment."
     },
+    "Alex Jones": {
+        "sample": "./colab/tests/ref_audio/alex_jones.wav",
+        "output_dir": "results/Alex_Jones",
+        "sample_text": "But it's just shrunken women with shrunken souls in a shrunken world with shrunken heads."
+    },
     "Biden": {
         "sample": "./colab/tests/ref_audio/biden_1.wav",
         "output_dir": "results/Biden",
@@ -23,6 +28,11 @@
         "sample": "./colab/tests/ref_audio/christopher_walken.wav",
         "output_dir": "results/Christopher_Walken",
         "sample_text": "Two little mice fell in a bucket of cream. The first mouse quickly gave up and drowned. The second mouse wouldn't quit. He struggled so hard that"
+    },
+    "Cuppa":{
+        "sample": "./colab/tests/ref_audio/cuppa.wav",
+        "output_dir": "results/Cuppa",
+        "sample_text": "An elderly, posh gentleman, firmly set in his ways. A somewhat younger chap, more modern, but still delightfully British. The local postwoman and mediator, fond of Earl Grey and solving disputes over a"
     },
     "Holy Crap": {
         "sample": "./colab/tests/ref_audio/holy_crap3.wav",
@@ -64,10 +74,30 @@
         "output_dir": "results/Donald_Trump",
         "sample_text": "Just going back to Ukraine for one second. We have an ocean separating us. The European nations together have spent 100 billion or maybe more than that, less than us,"
     },
+    "Downs": {
+        "sample": "./colab/tests/ref_audio/downs.wav",
+        "output_dir": "results/Downs",
+        "sample_text": "Im Michael and I have downs, I got the good knee my knee blew out when I was walking and now I need a walker. ah yeah"
+    },
+    "Downs Vector": {
+        "sample": "./colab/tests/ref_audio/downs_vector.wav",
+        "output_dir": "results/Downs Vector",
+        "sample_text": "Vector! That's me, because I'm committing crimes with both direction and magnitude. Oh yeah!"
+    },
+    "Gru": {
+        "sample": "./colab/tests/ref_audio/gru.wav",
+        "output_dir": "results/Gru",
+        "sample_text": "Little bombs all over my yard and I don't appreciate it. Unless they're dead. I'm joking. Although it is true. Anyway, have a good one."
+    },
     "Indian Scammer": {
         "sample": "./colab/tests/ref_audio/indian_scammer.wav",
         "output_dir": "results/Indian Scammer",
         "sample_text": "hello i am here the reach you i have a reach you about car extended warranty my name is jeff and i will be your representative today"
+    },
+    "Vector": {
+        "sample": "./colab/tests/ref_audio/vector.wav",
+        "output_dir": "results/Vector",
+        "sample_text": "Vector! That's me, because I'm committing crimes with both direction and magnitude. Oh yeah!"
     },
     "Venom": {
         "sample": "./colab/tests/ref_audio/venom_2.wav",
@@ -78,6 +108,11 @@
         "sample": "./colab/tests/ref_audio/young_michael_3.wav",
         "output_dir": "results/Young Michael",
         "sample_text": "Hey YouTube viewers, this is Yomima I Like Pie. Today I will be showing you something I have created. So let's get ready, start it."
+    },
+    "Wierd Voice": {
+        "sample": "./colab/tests/ref_audio/wierd_voice.wav",
+        "output_dir": "results/Wierd_Voice",
+        "sample_text": "Listen, folks, were in the fight of our lives here. This election isnt just about candidates or policies. No, this is about the soul of our nation! Theres a system at work"
     },
     "Random": {
         "sample": "",
