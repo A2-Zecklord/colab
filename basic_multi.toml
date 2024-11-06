@@ -25,6 +25,10 @@ ref_text = "Vector! That's me, because I'm committing crimes with both direction
 ref_audio = "./colab/tests/ref_audio/gru.wav"
 ref_text = "Little bombs all over my yard and I don't appreciate it. Unless they're dead. I'm joking. Although it is true. Anyway, have a good one."
 
+[voices.Gru_Angry]
+ref_audio = "./colab/tests/ref_audio/gru_angry.wav"
+ref_text = "Listen, I don't want a refund! I want the fairy prince! That's please! Please, I'm begging you! You know what? I hope that you can sleep at night, you crusher of little girl's dreams!"
+
 [voices.Vector]
 ref_audio = "./colab/tests/ref_audio/vector.wav"
 ref_text = "Vector! That's me, because I'm committing crimes with both direction and magnitude. Oh yeah!"
