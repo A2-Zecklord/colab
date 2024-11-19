@@ -22,7 +22,7 @@
     "Arthur Morgan Before TB": {
         "sample": "./colab/tests/ref_audio/Arthur_Morgan(Before_TB).wav",
         "output_dir": "results/Arthur_Morgan(Before_TB)",
-        "sample_text": "Your husband knew the rules when he took that money. Now, I'm real sorry about the way things turned out. But he had a choice. Ain't my fault about the way the world is. I hope it's hot and terrible, Mrs. Downs. Otherwise, I'll feel I've been sold a false bill of goods. Now, please, give me that money."
+        "sample_text": "Vengeance is an idiot's game. Ah, Mrs. Downs, thank you for your punctuality. It's next to godliness, isn't it?"
     },
     "Arthur Morgan Drunk": {
         "sample": "./colab/tests/ref_audio/Arthur_Morgan(Drunk).wav",
