@@ -19,6 +19,16 @@
         "output_dir": "results/Alex_Jones",
         "sample_text": "But it's just shrunken women with shrunken souls in a shrunken world with shrunken heads."
     },
+    "Arthur Morgan Before TB": {
+        "sample": "./colab/tests/ref_audio/Arthur_Morgan(Before_TB).wav",
+        "output_dir": "results/Arthur_Morgan(Before_TB)",
+        "sample_text": "Your husband knew the rules when he took that money. Now, I'm real sorry about the way things turned out. But he had a choice. Ain't my fault about the way the world is. I hope it's hot and terrible, Mrs. Downs. Otherwise, I'll feel I've been sold a false bill of goods. Now, please, give me that money."
+    },
+    "Arthur Morgan Drunk": {
+        "sample": "./colab/tests/ref_audio/Arthur_Morgan(Drunk).wav",
+        "output_dir": "results/Arthur_Morgan(Drunk)",
+        "sample_text": "Have a drink with me. Well, don't say I didn't offer. Mary Beth, sweetest outlaw in the West. Reverend, you turn some water into wine for me? I'm sure you've tried."
+    },
     "Biden": {
         "sample": "./colab/tests/ref_audio/biden_1.wav",
         "output_dir": "results/Biden",
