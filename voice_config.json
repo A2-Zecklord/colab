@@ -27,7 +27,7 @@
     "Arthur Morgan Drunk": {
         "sample": "./colab/tests/ref_audio/Arthur_Morgan(Drunk).wav",
         "output_dir": "results/Arthur_Morgan(Drunk)",
-        "sample_text": "Reverend, you turn some water into wine for me? I'm sure you've tried."
+        "sample_text": "Leave the kid alone, you goddamn animals. Nobody. I'm talking to nobody."
     },
     "Biden": {
         "sample": "./colab/tests/ref_audio/biden_1.wav",
