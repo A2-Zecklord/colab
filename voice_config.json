@@ -27,7 +27,7 @@
     "Arthur Morgan Drunk": {
         "sample": "./colab/tests/ref_audio/Arthur_Morgan(Drunk).wav",
         "output_dir": "results/Arthur_Morgan(Drunk)",
-        "sample_text": "Have a drink with me. Well, don't say I didn't offer. Mary Beth, sweetest outlaw in the West. Reverend, you turn some water into wine for me? I'm sure you've tried."
+        "sample_text": "Reverend, you turn some water into wine for me? I'm sure you've tried."
     },
     "Biden": {
         "sample": "./colab/tests/ref_audio/biden_1.wav",
