@@ -34,6 +34,11 @@
         "output_dir": "results/Biden",
         "sample_text": "Number one, everyone from the United Nations Security Council, straight through to the G7, to the Israelis and Netanyahu himself have endorsed the plan they put forward, endorsed the plan they put forward, which has three stages to it."
     },
+    "Chiefy":{
+        "sample": "./colab/tests/ref_audio/Chiefy.wav",
+        "output_dir": "results/Chiefy",
+        "sample_text": "Japanese submarine slammed two torpedoes into her side, Chief. It was coming back from the island of Tinian to Lady and just delivered the bomb, the Hiroshima bomb."
+    },
     "Christopher Walken":{
         "sample": "./colab/tests/ref_audio/christopher_walken.wav",
         "output_dir": "results/Christopher_Walken",
