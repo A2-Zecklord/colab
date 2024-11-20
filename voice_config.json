@@ -39,6 +39,11 @@
         "output_dir": "results/Christopher_Walken",
         "sample_text": "Two little mice fell in a bucket of cream. The first mouse quickly gave up and drowned. The second mouse wouldn't quit. He struggled so hard that"
     },
+    "Clint Eastwood":{
+        "sample": "./colab/tests/ref_audio/Clint_Eastwood.wav",
+        "output_dir": "results/Clint_Eastwood",
+        "sample_text": "You see, my mule don't like people laughing. It's the crazy idea you're laughing at him. Now, if you apologize like I know you're going to..."
+    },
     "Cuppa":{
         "sample": "./colab/tests/ref_audio/cuppa.wav",
         "output_dir": "results/Cuppa",
